@@ -1,8 +1,8 @@
 # NPA2023 Final Example
 
-- Name/Surname:
-- Student ID:
-- GitHub repository URL:
+- Name/Surname: Pakahawat Punpakdeewong
+- Student ID: 65070165
+- GitHub repository URL: https://github.com/Putter2546/NPA2023-Final-Example
 
 ## Instruction
 
